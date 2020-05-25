@@ -1,5 +1,5 @@
 {
-  "name": "Lohn/activitypub-php",
+  "name": "lohn/activitypub-php",
   "description": "An ActivityPub library",
   "license": "MIT",
   "authors": [
